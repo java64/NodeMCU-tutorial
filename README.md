@@ -1,5 +1,30 @@
 # NodeMCU-tutorial
 
+## Shields
+
+Se trata de placas que nos facilitan la conexión de otros componentes y además proporcionan una forma más sencilla de alimentar la placa
+
+### MotorShield
+
+![motorshield](./images/NodeMCUMotorShield.jpg)
+
+* Usa el famoso L293D para controlar 2 motores DC
+
+* Facilita mucho la conexión de servos y/o otros componentes (como los de Ele cfreaks o Bq)
+
+* Alimentación ¿Rango?
+
+¿URL?
+
+### Break Board
+
+![images/NodeMCUBreakBoard.jpg](./images/NodeMCUBreakBoard.jpg)
+
+* Facilita mucho la conexión de servos y/o otros componentes (como los de Ele cfreaks o Bq)
+
+* Alimentación ¿Rango?
+
+
 ## Enlaces
 
 [Workshop sobre NodeMCU y ESP8266](https://github.com/geekscape/nodemcu_esp8266/tree/master/workshop_1)
