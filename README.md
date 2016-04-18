@@ -1,4 +1,51 @@
-# NodeMCU-tutorial
+# NodeMCU
+
+## Introducción
+
+### ¿Qué es NodeMCU?
+
+Es una placa de desarrollo que facilita el uso del ESP12-E
+
+### ¿Qué es ESP8266?
+
+### ¿Tiene arduino los días contados?
+
+### ¿En qué se programa?
+
+#### LUA
+
+#### Comandos AT
+
+#### C++ desde el IDE de Arduino
+
+## Voltajes
+
+Los chips ESP8266 y ESP12-E funcionan a 3.3v
+
+## Pinout
+
+Los pines con ~ pueden usarse como PWM y por tanto controlar servos
+
+Destacar el pin A0 que es una entrada analógica (ADC)
+
+Existen varias versiones y es importante saber qué versión tiene nuestra placa
+
+
+
+### Versiones
+
+Existen muchas variantes alrededor de la especificación original
+
+#### V1
+
+![ images/Node-MCU-Pin-Out-Diagram1.png]( ./images/Node-MCU-Pin-Out-Diagram1.png)
+
+#### V2
+
+![images/esp_layout.png](./images/esp_layout.png)
+
+#### V3
+
 
 ## Shields
 
