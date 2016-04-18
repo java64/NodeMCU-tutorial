@@ -57,7 +57,7 @@ Se trata de placas que nos facilitan la conexión de otros componentes y además
 
 ### MotorShield
 
-![motorshield](./images/NodeMCUMotorShield.jpg)
+![motorshield](./images/NodeMcuMotorshield.jpg)
 
 * Usa el famoso L293D para controlar 2 motores DC
 
