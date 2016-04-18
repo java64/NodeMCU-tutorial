@@ -6,6 +6,8 @@
 
 Es una placa de desarrollo que facilita el uso del ESP12-E
 
+[Especificación](https://github.com/nodemcu/nodemcu-devkit-v1.0)
+
 ### ¿Qué es ESP8266?
 
 ### ¿Tiene arduino los días contados?
@@ -34,7 +36,7 @@ Existen varias versiones y es importante saber qué versión tiene nuestra placa
 
 ### Versiones
 
-Existen muchas variantes alrededor de la especificación original
+Existen muchas variantes alrededor de la [especificación original](https://github.com/nodemcu/nodemcu-devkit-v1.0)
 
 #### V1
 
