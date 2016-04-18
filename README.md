@@ -40,9 +40,13 @@ Existen muchas variantes alrededor de la especificación original
 
 ![ images/Node-MCU-Pin-Out-Diagram1.png]( ./images/Node-MCU-Pin-Out-Diagram1.png)
 
+Los pines del lado derecho no se utilizan
+
 #### V2
 
 ![images/esp_layout.png](./images/esp_layout.png)
+
+Los pines del lado derecho ya se utilizan
 
 #### V3
 
