@@ -14,11 +14,45 @@ Es una placa de desarrollo que facilita el uso del ESP12-E
 
 ### ¿En qué se programa?
 
-#### LUA
-
 #### Comandos AT
 
+#### LUA
+
+#### ESPlorer
+
 #### C++ desde el IDE de Arduino
+
+Añadimos una fuente de board en la página de preferencias (Archivo->Preferencias)
+
+    http://arduino.esp8266.com/stable/package_esp8266com_index.json
+
+Ahora entramos en el gestor de Tarjetas ()
+
+![Gestor placas](./images/GestorTarjetas.png)
+
+
+![Gestor placas](./images/GestorTarjetas2.png)
+
+Una vez instalado ya tenemos disponible las placas de tipo ESP
+
+![Tarjeta nodeMCU](./images/Tarjeta_nodeMCU.png)
+
+Al seleccionarla accedemos a nuevas propiedades
+
+![Propiedades_tarjeta_NodeMCU](./images/Propiedades_tarjeta_NodeMCU.png)
+
+y Ejemplos
+
+![Ejemplos_ESP.png](./images/Ejemplos_ESP.png)
+
+
+Seleccionamos uno de ellos
+
+Seleccionamos el puerto y subimos
+
+Tarda bastante más que un típico programa de Arduino
+
+#### SDK de expressif
 
 ## Voltajes
 
@@ -26,7 +60,11 @@ Los chips ESP8266 y ESP12-E funcionan a 3.3v
 
 ## Pinout
 
+
+
 Los pines con ~ pueden usarse como PWM y por tanto controlar servos
+
+En algunas placas se habla de Dx y en otras de GIOy (y la correspondencia entre ambos es ....)
 
 Destacar el pin A0 que es una entrada analógica (ADC)
 
