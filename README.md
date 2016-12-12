@@ -71,6 +71,27 @@ Destacar el pin A0 que es una entrada analógica (ADC)
 Existen varias versiones y es importante saber qué versión tiene nuestra placa
 
 
+### Pinout ESP12-E
+
+
+
+|NodeMCU	|ESP8266 GPIO	|  Functions
+|---|---|---
+|D0	|GPIO16	|LED_BUILTIN or BUILTIN_LED
+|D1	|GPIO5	|I2C-SCL or CLK
+|D2	|GPIO4	|I2C-SDA
+|D3	|GPIO0	|SPI-RES or RST
+|D4	|GPIO2	|SPI-DC
+|D5	|GPIO14	|SPI-SCL or CLK
+|D6	|GPIO12	|SPI-MISO
+|D7	|GPIO13	|SPI-SDA or MOSI
+|D8	|GPIO15	|SPI-CS or SS
+|D9|	GPIO3	|Serial RX0
+|D10|	GPIO1	|Serial TX0
+|D11|	GPIO9
+|D12|	GPIO10
+
+(Recopilado de la página [threelectromania](http://theelectromania.blogspot.com.es/2016/02/how-to-program-esp8266-esp-12e-nodemcu.html))
 
 ### Versiones
 
