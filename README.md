@@ -6,6 +6,8 @@
 
 Es una placa de desarrollo que facilita el uso del ESP12-E
 
+![NodeMCU](./images/MiNodeMCU_pcb.jpg)
+
 [Especificación](https://github.com/nodemcu/nodemcu-devkit-v1.0)
 
 ### ¿Qué es ESP8266?
@@ -39,7 +41,7 @@ Una vez instalado ya tenemos disponible las placas de tipo ESP
 
 Al seleccionarla accedemos a nuevas propiedades
 
-![Propiedades_tarjeta_NodeMCU](./images/Propiedades_tarjeta_NodeMCU.png)
+![Propiedades_tarjeta_NodeMCU](./images/Propiedades_Tarjeta_NodeMCU.png)
 
 y Ejemplos
 
@@ -146,3 +148,9 @@ Se trata de placas que nos facilitan la conexión de otros componentes y además
 [Referencia](https://github.com/geekscape/nodemcu_esp8266)
 
 [SeeedStudio](http://www.seeedstudio.com/recipe/245-control-electrical-devices-from-your-web-browser.html?utm_source=EDM&utm_medium=EDM&utm_campaign=EDM20150531)
+
+### Recursos
+
+https://github.com/esp8266
+https://github.com/esp8266/esp8266-wiki/wiki
+https://github.com/nodemcu/nodemcu-firmware
