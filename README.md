@@ -149,6 +149,8 @@ Se trata de placas que nos facilitan la conexión de otros componentes y además
 
 [SeeedStudio](http://www.seeedstudio.com/recipe/245-control-electrical-devices-from-your-web-browser.html?utm_source=EDM&utm_medium=EDM&utm_campaign=EDM20150531)
 
+[Instructable sobre NodeMCU](http://www.instructables.com/id/Quick-Start-to-Nodemcu-ESP8266-on-Arduino-IDE/)
+
 ### Recursos
 
 https://github.com/esp8266
