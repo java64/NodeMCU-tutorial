@@ -151,6 +151,8 @@ Se trata de placas que nos facilitan la conexión de otros componentes y además
 
 [Instructable sobre NodeMCU](http://www.instructables.com/id/Quick-Start-to-Nodemcu-ESP8266-on-Arduino-IDE/)
 
+[Getting Started with the Feather Huzzah](https://www.hackster.io/glowascii/getting-started-with-the-feather-huzzah-81fe61)
+
 ### Recursos
 
 https://github.com/esp8266
